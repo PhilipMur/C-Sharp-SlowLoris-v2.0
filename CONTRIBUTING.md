@@ -2,7 +2,7 @@
 
 Contribution
 
-Thank you for considering contribution to the Serial-Comm-Tester Project! How to contribute?
+Thank you for considering contribution to the Slowloris-V2.0 Project! How to contribute?
 
 It's very simple!
 
